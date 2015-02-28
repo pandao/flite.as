@@ -12,6 +12,7 @@ backup/
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
 
-.bat
-.log
-.as3proj
+*.bat
+*.log
+*.as3proj
+*.as.as3proj
